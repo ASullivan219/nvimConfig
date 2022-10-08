@@ -1,2 +1,3 @@
-# nvimConfig
-Git repo for my nvim Config
+# NeoVim Config Files
+
+Confusing commands or set options will be explained here
